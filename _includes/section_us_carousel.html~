@@ -1,0 +1,39 @@
+<section id="main-slider" class="carousel">
+        <div class="carousel-inner">
+	    <div class="item">
+                <div class="container">
+                    <div class="carousel-content">
+                        <h1>PRAGMATISTS</h1>
+                        <p class="lead">We are more than just Developers... We are Pragmatists!!</p>
+                    </div>
+                </div>
+            </div><!--/.item-->
+            <div class="item active">
+                <div class="container">
+                    <div class="carousel-content">
+                        <h1>INQUISITIVE</h1>
+                        <p class="lead">We ADAPT. We take the latest technologies in hand and make the best out of it!!</p>
+                    </div>
+                </div>
+            </div><!--/.item-->
+	    <div class="item">
+                <div class="container">
+                    <div class="carousel-content">
+                        <h1>PERSISTENT</h1>
+                        <p class="lead">We just persist through our projects!!</p>
+                    </div>
+                </div>
+            </div><!--/.item-->
+	    <div class="item">
+                <div class="container">
+                    <div class="carousel-content">
+                        <h1>SEEKERS</h1>
+                        <p class="lead">We grab every possible oportunities and get the best out of them!!</p>
+                    </div>
+                </div>
+            </div><!--/.item-->
+        </div><!--/.carousel-inner-->
+        <a class="prev" href="#main-slider" data-slide="prev"><i class="icon-angle-left"></i></a>
+        <a class="next" href="#main-slider" data-slide="next"><i class="icon-angle-right"></i></a>
+    </section><!--/#main-slider-->
+
